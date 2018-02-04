@@ -12,7 +12,9 @@ The analytical code is contained in two notebooks:
 In order to run the code, you need a working [Jupyter](https://jupyter.org/) server.
 It is recommended that you create an [Anaconda](https://www.anaconda.com/) environment with the supplied `environment.yml` file to avoid any issues with python package versioning.
 
-## Interactive demo
-For those wishing to simply experiment, we are presently providing an interactive version of the notebooks, available [here](http://ec2-35-182-249-174.ca-central-1.compute.amazonaws.com).
-This allows you to run the code from our paper directly in your browser without needing to install any software.
-Please note that the [tmpnb](https://github.com/jupyter/tmpnb) server providing the temporary notebooks only keeps notebooks alive for a maximum of 4 hours, or 1 hour of inactivity.
+## Interactive version
+For those wishing to experiment, we invite you to clone the workbook for yourself using Microsoft Azure Notebooks.
+Follow the link below and clone the library to run the notebook interactively.
+The azure notebook library is generated directly from this repository and contains identical information.
+
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/dmitri/libraries/evaluating-gdp-forecasts)
